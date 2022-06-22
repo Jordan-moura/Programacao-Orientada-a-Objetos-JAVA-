@@ -1,0 +1,5 @@
+models\Artista.class
+models\Cd.class
+repository\ArtistaRepository.class
+models\Dvd.class
+models\Midia.class
